@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: |cff33ccffForeverEgo|r
+## Notes: Récapitulatif de tous vos personnages WoW Forever : métiers, armes, réputations, raids...
+## Notes-frFR: Récapitulatif de tous vos personnages WoW Forever : métiers, armes, réputations, raids...
+## Version: 0.6.3
+## SavedVariables: ForeverEgoDB
+## OptionalDeps: EllesmereUI
+## IconTexture: Interface\AddOns\ForeverEgo\Media\Logo
+
+Core.lua
+Collect.lua
+Skin.lua
+UI.lua
+Options.lua
